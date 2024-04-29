@@ -17,6 +17,8 @@ This is a college project for the course "Introduction to Structured Databases E
 
 The project is structured in an real world based scenario where the I am a database administrator for a company called Quantigration.
 
+### Scenario:
+
 You’re working as a database administrator for Quantigration, a networking equipment manufacturer. The company has grown quickly and is still figuring out its internal business processes. The company uses customer return merchandise authorizations (RMAs) to track shipments for defective or incorrect parts. The company has identified RMAs as a specific problematic area.
 
 Your supervisor at Quantigration asked you to create a database for a new software application that will be used for processing RMAs. The application must also record where items are received because merchandise can be taken in at several locations. This system will also capture where the equipment is going next. Options include repair, scrap, or refurbishing and resale. The warehouse shipping and receiving employees at your company will be using this application. These employees are considered your end users for the application. Part of their job is to process customer return shipments.
@@ -26,6 +28,8 @@ A set of instructions were given to complete this section of the project click [
 ## Scenario 2: Analyszing Results
 
 In this second scenario I was asked to analize results and present them.
+
+### Scenario:
 
 The product manager of Quantigration has asked your data analytics team for a report summarizing your analysis of the return merchandise authorizations (RMAs) received. You will be working with the same data sets that you have already been working with. Your report should summarize the analysis and present your findings to the product manager. Some of the people who will review this report don’t have a technical background.
 
