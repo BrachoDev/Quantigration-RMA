@@ -9,13 +9,13 @@ This is a college project for the course "Introduction to Structured Databases E
 ## Content:
 
 - [Scenario 1: Creating database.](#scenario-1-creating-database)
-- [Scenario 2: Analyszing results.](#scenario-2-analyszing-results)
+- [Scenario 2: Analysing results.](#scenario-2-analyszing-results)
 - [Extra information and resources.](#extra-information-and-resources)
 - [Skills learned.](#skills-learned)
 
 ## Scenario 1: Creating Database
 
-The project is structured in a real world based scenario where the I am a database administrator for a company called Quantigration.
+The project is structured in a real-world based scenario where I am a database administrator for a company called Quantigration.
 
 ### Scenario:
 
@@ -23,11 +23,11 @@ You’re working as a database administrator for Quantigration, a networking equ
 
 Your supervisor at Quantigration asked you to create a database for a new software application that will be used for processing RMAs. The application must also record where items are received because merchandise can be taken in at several locations. This system will also capture where the equipment is going next. Options include repair, scrap, or refurbishing and resale. The warehouse shipping and receiving employees at your company will be using this application. These employees are considered your end users for the application. Part of their job is to process customer return shipments.
 
-A set of instructions were given to complete this section of the project click [here](<Carlos Bracho - Project One.docx>) to open first part of this project.
+A set of instructions was given to complete this section of the project click [here](<Carlos Bracho - Project One.docx>) to open the first part of this project.
 
-## Scenario 2: Analyszing Results
+## Scenario 2: Analyzing Results
 
-In this second scenario I was asked to analize results and present them.
+In this second scenario, I was asked to analyze the results and present them.
 
 ### Scenario:
 
@@ -45,11 +45,11 @@ If you want to have access to my SQL queries and code to see how I was able to c
 
 ## Skills Learned
 
-This project allowed me to learn how to work with databases using MySQL, which is an essential tool for any programmer or developer that works with data. I especifically learned:
+This project allowed me to learn how to work with databases using MySQL, which is an essential tool for any programmer or developer that works with data. I specifically learned:
 
-1. Learned how to design a databases using the help of an ERD.
+1. Learned how to design databases using the help of an ERD.
 2. Gained experience defining tables to store specific data categories, such as customers, orders, or items.
 3. Explored how to establish relationships between these tables to connect related pieces of data.
 4. Learned techniques to manipulate databases such as adding, removing, or changing elements within a database to adapt it to evolving needs.
-5. Learned to translate data to a non-techinical audience.
+5. Learned to translate data to a non-technical audience.
 6. Practiced using queries to extract valuable information from the database, such as trends, patterns, or summaries.
