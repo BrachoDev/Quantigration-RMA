@@ -15,7 +15,7 @@ This is a college project for the course "Introduction to Structured Databases E
 
 ## Scenario 1: Creating Database
 
-The project is structured in an real world based scenario where the I am a database administrator for a company called Quantigration.
+The project is structured in a real world based scenario where the I am a database administrator for a company called Quantigration.
 
 ### Scenario:
 
